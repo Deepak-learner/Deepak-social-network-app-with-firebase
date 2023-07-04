@@ -16,10 +16,6 @@ function Header() {
       path: "/addpost",
     },
     {
-      title: "Shares",
-      path: "/shares",
-    },
-    {
       title: "Profile",
       path: `/profile/${user.id}`,
     },

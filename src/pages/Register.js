@@ -48,7 +48,7 @@ function Register() {
       <div className="flex justify-start">
         <div className="h-40 bg-white w-96 transform -skew-x-[25deg] -ml-10 flex items-center justify-center">
           <h1 className="text-center text-6xl font-semibold skew-x-[25deg] text-primary">
-            SHEY
+            Social
           </h1>
         </div>
       </div>
@@ -91,6 +91,7 @@ function Register() {
           <Link to="/login" className="text-[14px] text-gray-400">
             ALREADY REGISTED ? CLICK HERE TO LOGIN
           </Link>
+          <h5 className="text-gray-400">Points to remember: <br/> Password should be more than 6 characters </h5>
         </div>
       </div>
 
@@ -98,7 +99,7 @@ function Register() {
       <div className="flex justify-end">
         <div className="h-40 w-96 bg-white transform skew-x-[25deg] -mr-10 flex items-center justify-center">
           <h1 className="text-center text-6xl font-semibold -skew-x-[25deg] text-primary">
-            GRAM
+            Network
           </h1>
         </div>
       </div>

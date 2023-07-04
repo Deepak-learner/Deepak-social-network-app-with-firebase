@@ -48,7 +48,7 @@ function Login() {
       <div className="flex justify-start">
         <div className="h-40 bg-primary w-96 transform -skew-x-[25deg] -ml-10 flex items-center justify-center">
           <h1 className="text-center text-6xl font-semibold skew-x-[25deg] text-white">
-            SHEY
+            Social 
           </h1>
         </div>
       </div>
@@ -56,7 +56,8 @@ function Login() {
       {/* form */}
       <div className="flex justify-center">
         <div className="w-[420px] flex flex-col space-y-5 card p-10">
-          <h1 className="text-4xl text-primary font-semibold">Get---In</h1>
+        <h1 className="text-4xl text-primary font-semibold justify-center">Welcome to Deepak Social Networ App</h1>
+          <h3 className="text-4xl text-primary font-semibold">Get---In</h3>
           <hr />
           <input
             type="text"
@@ -91,7 +92,7 @@ function Login() {
       <div className="flex justify-end">
         <div className="h-40 bg-primary w-96 transform skew-x-[25deg] -mr-10 flex items-center justify-center">
           <h1 className="text-center text-6xl font-semibold -skew-x-[25deg] text-white">
-            GRAM
+            Network
           </h1>
         </div>
       </div>
